@@ -34,7 +34,7 @@ Mapty is a workout tracking application that allows users to log running and cyc
 
 Mapty is a workout tracking application that allows users to log running and cycling workouts on a map. Built using JavaScript, Leaflet library, and Geolocation API.
 
-![Mapty Screenshot](./screenshot.png)
+![Mapty Screenshot](./image.png)
 
 ---
 
@@ -62,7 +62,7 @@ Mapty is a workout tracking application that allows users to log running and cyc
 
 1. **Clone the repo**
    ```bash
-   git clone https://github.com/yourusername/mapty.git
+   git clone https://github.com/TarneemMagdy/mapty
    cd mapty
 
 
