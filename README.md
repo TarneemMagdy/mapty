@@ -40,3 +40,17 @@ Try the live application here:
 ```bash
 git clone https://github.com/TarneemMagdy/mapty.git
 cd mapty
+
+
+## 🧑‍💻 Usage
+
+- Use provided demo accounts to log in (see below)  
+- Explore features like transfers, loans, and account closing  
+- Watch your account balance and movements update in real time  
+
+## 📝 Demo Accounts
+
+| Username | PIN  | Account Owner     |
+| -------- | ---- | ----------------- |
+| js       | 1111 | Jonas Schmedtmann |
+| jd       | 2222 | Jessica Davis     |
